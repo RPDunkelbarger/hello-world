@@ -1,5 +1,4 @@
 # hello-world
-My first new repository.
 
 Designer of things Web and print related.
 
